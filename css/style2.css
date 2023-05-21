@@ -1,0 +1,13 @@
+body{
+    background-image: url(/img/fondo.jpg);
+}
+#let{
+    color: white;
+}
+#nav_img{
+    width: 100px;
+}
+.navbar{
+    display:grid;
+    margin-left: 750px;
+}
